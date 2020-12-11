@@ -1,6 +1,6 @@
 {
   "name": "s7client",
-  "version": "2.0.0",
+  "version": "0.0.1",
   "description": "Hi level API for node-snap7 to communication with Siemens S7 PLCs",
   "homepage": "https://psi-4ward.github.io/s7client",
   "main": "src/index.js",
@@ -29,8 +29,8 @@
     "logo"
   ],
   "author": {
-    "name": "Christoph Wiechert",
-    "url": "https://psi.cx"
+    "name": "Rien Verbeke"
+
   },
   "license": "MIT",
   "bugs": {
