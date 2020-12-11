@@ -3,3 +3,4 @@
 /tmp
 /docs
 /.nyc_output
+.npmrc

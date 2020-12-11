@@ -1,5 +1,5 @@
 {
-  "name": "s7client",
+  "name": "@rv1989/s7client",
   "version": "0.0.1",
   "description": "Hi level API for node-snap7 to communication with Siemens S7 PLCs",
   "homepage": "https://psi-4ward.github.io/s7client",
