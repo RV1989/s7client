@@ -9,6 +9,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTWDCH74TJN54&item_name=s7client)
 
 
+clone of the awesome work of https://github.com/psi-4ward/s7client with small changes for connecting to sinamics drives.
+
 Hi-Level API for [node-snap7](https://github.com/mathiask88/node-snap7) to communicate with Siemens S7 PCLs (See [compatibility](http://snap7.sourceforge.net/snap7_client.html#target_compatibility)).
 
 * Promise based, `async/await` support
